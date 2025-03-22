@@ -47,13 +47,33 @@ cd sql-ultimate-course
 ---
 
 ## 📌 Key Topics Covered
-- SQL Basics: SELECT, FROM, WHERE, GROUP BY, HAVING, ORDER BY
-- Joins and Subqueries and CTE and Triggers
-- Data Manipulation: INSERT, UPDATE, DELETE
-- Functions and Stored Procedures
-- Views and Indexing
-- Transactions and Error Handling
-- Performance Optimization
+1. Querying Data with SELECT
+2. Data Definition (DDL)
+3. Data Manipulation (DML)
+4. Filtering Data
+5. JOINs
+6. SET Operations
+7. String Functions
+8. Number Functions
+9. Date and Time Functions
+10. Date and Time Formats
+11. NULL Functions
+12. CASE Statements
+13. Aggregate Functions
+14. Window Functions Basics
+15. Window Aggregations
+16. Window Ranking Functions
+17. Window Value Functions
+18. Subqueries
+19. Common Table Expressions (CTE)
+20. Views
+21. Temporary Tables
+22. Stored Procedures
+23. Triggers
+24. Indexes
+25. Partitions
+26. Performance Optimization
+27. AI and SQL
 
 ---
 
